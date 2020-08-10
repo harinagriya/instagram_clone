@@ -1,0 +1,23 @@
+{
+  "name": "Instagram",
+  "displayName": "Instagram",
+  "expo": {
+    "name": "Instagram",
+    "slug": "Instagram",
+    "version": "1.0.0",
+    "orientation": "portrait",
+    "icon": "assets/instaIcon.png",
+    "loading": {
+      "icon": "assets/instaLoadingIcon.png",
+      "hideExponentText": false
+    },
+    "platforms": [
+      "ios",
+      "android",
+      "web"
+    ],
+    "assetBundlePatterns": [
+      "**/*"
+    ]
+  }
+}
